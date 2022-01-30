@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "200413242_Tienda/1.0.0": {
+        "runtime": {
+          "200413242_Tienda.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "200413242_Tienda/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
